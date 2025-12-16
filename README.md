@@ -86,13 +86,6 @@ Agar aplikasi berjalan tanpa error, kamu harus memastikan semua file `.jar` terh
 
 ---
 
-## 📸 Tampilan Aplikasi (Preview)
-
-Aplikasi ini menggunakan tema dari **JTattoo** untuk tampilan yang lebih modern, serta dilengkapi dengan ikon-ikon intuitif untuk setiap menu transaksi.
-
-> *Catatan: Pastikan file `bank.db` berada di direktori root project saat aplikasi dijalankan agar koneksi database berhasil.*
-
----
 
 **👨‍💻 Author**
 * **Dibuat oleh:** rfrz, rusdi, rafi, ojan
